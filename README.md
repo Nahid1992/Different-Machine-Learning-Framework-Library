@@ -1,7 +1,7 @@
 # Different-Machine-Learning-Framework & Library
 
 ### Scikit Library:
-	link: http://scikit-learn.org/stable/
+link: [http://scikit-learn.org/stable/]
 * Supports more or less most of the general machine learning algorithm
 * Does not support Neural Network
 * Does not support GPU
