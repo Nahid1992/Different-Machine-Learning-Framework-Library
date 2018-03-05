@@ -1,4 +1,4 @@
-# Different-Machine-Learning-Framework & Library
+# Different Machine Learning Framework & Library
 
 ### Scikit Library:
 link: [http://scikit-learn.org/stable/]
