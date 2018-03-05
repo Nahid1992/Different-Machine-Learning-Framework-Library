@@ -7,7 +7,7 @@ link: [http://scikit-learn.org/stable/]
 * Does not support GPU
 
 ### CAFFE Framework:
-	link: http://caffe.berkeleyvision.org/
+link: [http://caffe.berkeleyvision.org/]
 * Not very Flexible
 * Each Nodes are considered Layer
 * Building Blocks are larger and extra work needed for Feed Forward as well as Backprop
@@ -15,7 +15,7 @@ link: [http://scikit-learn.org/stable/]
 * Define Model using Plain Text
 	
 ### TensorFlow Framework:
-	link: https://www.tensorflow.org/
+link: [https://www.tensorflow.org/]
 * Supports Multiple GPU
 * Each Nodes are considered as Tensor Operations
 * Example:=> Matrix Add Mul Sub ... 
@@ -28,7 +28,7 @@ link: [http://scikit-learn.org/stable/]
 * Growing very fast
 	
 ### Keras Library:
-	link: https://keras.io/
+link: [https://keras.io/]
 * Good for starting Deep Learning
 * Provides various high level API 
 * Works as Object Oriented Design
@@ -37,12 +37,12 @@ link: [http://scikit-learn.org/stable/]
 * BUT on top of Theano it works pretty well
 	
 ### TF Learn Library:
-	link: http://tflearn.org/
+link: [http://tflearn.org/]
 * Basically KERAS but optimized for Tensorflow
 * Better in Research
 	
 ### Theano Library:
-	link: http://deeplearning.net/software/theano/
+link: [http://deeplearning.net/software/theano/]
 * Best for Industry and Research
 * Theano outperforms TensorFlow with SINGLE GPU
 * Supports Windows very smoothly
